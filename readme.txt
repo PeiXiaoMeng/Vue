@@ -1,0 +1,4 @@
+github查看页面效果方法: 在需要查看的网页的目录前面增加http://htmlpreview.github.io/?
+
+
+Vue-Bootstrap留言板用Vue2，BootStrap3.3.7实现
